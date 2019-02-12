@@ -1,1 +1,0 @@
-Run the file from index.php
